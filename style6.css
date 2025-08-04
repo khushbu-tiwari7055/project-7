@@ -1,0 +1,46 @@
+body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+
+    h1 {
+      text-align: center;
+      padding: 40px 0 20px;
+      color: #333;
+    }
+
+    section {
+      padding: 40px 20px;
+      margin: 20px auto;
+      max-width: 1000px;
+      border-radius: 8px;
+      box-sizing: border-box;
+    }
+
+    .history {
+      background-color: #e3f2fd;
+      border-left: 8px solid #2196f3;
+    }
+
+    .mission {
+      background-color: #e8f5e9;
+      border-left: 8px solid #43a047;
+    }
+
+    .team {
+      background-color: #fff3e0;
+      border-left: 8px solid #fb8c00;
+    }
+
+    h2 {
+      margin-top: 0;
+      color: #2c3e50;
+    }
+
+    p {
+      margin-bottom: 15px;
+      color: #444;
+    }
